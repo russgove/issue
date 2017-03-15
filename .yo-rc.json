@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "issue",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "f83da40b-5055-4a61-834f-886daa141536"
+  }
+}

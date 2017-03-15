@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "a00aa624-0ec2-4395-82c7-e05498485e6b",
+  "alias": "IssuedemoWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "a00aa624-0ec2-4395-82c7-e05498485e6b",
+    "group": { "default": "Under Development" },
+    "title": { "default": "issuedemo" },
+    "description": { "default": "issuedemo description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "issuedemo"
+    }
+  }]
+}

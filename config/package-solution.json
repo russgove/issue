@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "issue-client-side-solution",
+    "id": "f83da40b-5055-4a61-834f-886daa141536",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/issue.sppkg"
+  }
+}

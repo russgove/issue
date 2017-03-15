@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/issuedemo/IssuedemoWebPart.js",
+      "manifest": "./src/webparts/issuedemo/IssuedemoWebPart.manifest.json",
+      "outputPath": "./dist/issuedemo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "issuedemoStrings": "webparts/issuedemo/loc/{locale}.js"
+  }
+}
